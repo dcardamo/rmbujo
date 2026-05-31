@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **This repository is archived.** Development has moved to the
+> [`rmapps`](https://github.com/dcardamo/rmapps) monorepo. This code now lives at
+> [`rmapps/rmbujo`](https://github.com/dcardamo/rmapps/tree/main/rmbujo) with full
+> git history preserved. No further changes will be made here.
+
 # rmbujo
 
 **A dot-grid bullet-journal generator for reMarkable e-ink tablets.**
